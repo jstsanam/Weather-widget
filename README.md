@@ -1,3 +1,8 @@
+# Weather Widget App
+
+This is a weather widget which allows user to enter cities all over the world tells them the temperature, climate and humidity of that place.
+User can clone the repository in their local machines and run using Node.js after setting up.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
